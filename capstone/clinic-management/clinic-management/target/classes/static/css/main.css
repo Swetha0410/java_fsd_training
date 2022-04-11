@@ -1,0 +1,100 @@
+@charset "ISO-8859-1";
+
+.icon {
+	color: #0000ff;
+}
+.login {
+	background-image: url("https://static.vecteezy.com/system/resources/previews/005/938/354/original/plants-minimalist-banner-hand-drawn-floral-grass-branches-leaves-on-a-white-background-green-simple-horizontal-pattern-simple-flat-style-all-elements-are-isolated-and-editable-vector.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.login nav{
+	box-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .1);
+	padding:2rem 9%;
+    position: fixed;
+    top:0; left: 0; right: 0;
+    z-index: 1000;
+    display: flex;
+}
+
+
+
+.index{
+	background-image: url("https://static.vecteezy.com/system/resources/previews/005/938/380/large_2x/plants-minimalist-banner-hand-drawn-floral-grass-branches-leaves-on-a-white-background-green-simple-horizontal-pattern-simple-flat-style-all-elements-are-isolated-and-editable-free-vector.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.index .card{
+	box-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .1);
+}
+
+.index nav{
+	
+	box-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .1);
+	padding:2rem 9%;
+    position: fixed;
+    top:0; left: 0; right: 0;
+    z-index: 1000;
+    display: flex;
+	
+}
+
+
+
+.medicine {
+	background-image: url("https://img.freepik.com/free-vector/people-sitting-hospital-corridor-waiting-doctor-patient-clinic-visit-flat-vector-illustration-medicine-healthcare_74855-8507.jpg?w=2000");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.medicine nav{
+	box-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .1);
+	padding:1rem 9%;
+    position: fixed;
+    top:0; left: 0; right: 0;
+    z-index: 1000;
+    display: flex;
+}
+
+
+.patient {
+	background-image: url("https://img.freepik.com/free-vector/people-sitting-hospital-corridor-waiting-doctor-patient-clinic-visit-flat-vector-illustration-medicine-healthcare_74855-8507.jpg?w=2000");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.patient nav{
+	box-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .1);
+	padding:1rem 9%;
+    position: fixed;
+    top:0; left: 0; right: 0;
+    z-index: 1000;
+    display: flex;
+}
+
+
+.admin {
+	background-image: url("https://static.vecteezy.com/system/resources/previews/005/938/354/original/plants-minimalist-banner-hand-drawn-floral-grass-branches-leaves-on-a-white-background-green-simple-horizontal-pattern-simple-flat-style-all-elements-are-isolated-and-editable-vector.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.admin nav{
+	box-shadow: 0 .5rem 1.5rem rgba(0, 0, 0, .1);
+	padding:2rem 9%;
+    position: fixed;
+    top:0; left: 0; right: 0;
+    z-index: 1000;
+    display: flex;
+}
+
+
+h1 {
+	font-family: 'Anton', sans-serif;
+}
+i {
+	color: #000000;
+}
